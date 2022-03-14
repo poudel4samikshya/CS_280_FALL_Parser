@@ -1,0 +1,9 @@
+13: Unrecognized Input Pattern
+(@)
+13: Missing Expression in Assignment Statment
+13: Missing Statement for IF
+13: Incorrect control Statement.
+13: Missing a semicolon.
+13: Incorrect Syntax in the Program
+Unsuccessful Parsing
+Number of Syntax Errors 6

@@ -1,0 +1,6 @@
+14: Missing Right Parenthesis
+14: Incorrect control Statement.
+14: Missing a semicolon.
+14: Incorrect Syntax in the Program
+Unsuccessful Parsing
+Number of Syntax Errors 4

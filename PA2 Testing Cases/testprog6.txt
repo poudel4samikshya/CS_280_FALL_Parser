@@ -1,0 +1,4 @@
+17: Missing a semicolon.
+17: Incorrect Syntax in the Program
+Unsuccessful Parsing
+Number of Syntax Errors 2

@@ -1,0 +1,7 @@
+10: Variable Redefinition
+10: Incorrect variable in Declaration Statement.
+10: Incorrect Declaration Statement.
+10: Missing a semicolon.
+10: Incorrect Syntax in the Program
+Unsuccessful Parsing
+Number of Syntax Errors 5

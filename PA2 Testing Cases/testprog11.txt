@@ -1,0 +1,6 @@
+11: Missing Assignment Operator =
+11: Incorrect control Statement.
+11: Missing a semicolon.
+11: Incorrect Syntax in the Program
+Unsuccessful Parsing
+Number of Syntax Errors 4

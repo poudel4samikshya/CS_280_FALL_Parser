@@ -1,0 +1,7 @@
+16: Undeclared Variable
+16: Missing Left-Hand Side Variable in Assignment statement
+16: Incorrect control Statement.
+16: Missing a semicolon.
+16: Incorrect Syntax in the Program
+Unsuccessful Parsing
+Number of Syntax Errors 5

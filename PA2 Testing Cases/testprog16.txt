@@ -1,0 +1,8 @@
+12: Unrecognized input
+12: Missing operand after operator
+12: Missing Expression in Assignment Statment
+12: Incorrect control Statement.
+12: Missing a semicolon.
+12: Incorrect Syntax in the Program
+Unsuccessful Parsing
+Number of Syntax Errors 6

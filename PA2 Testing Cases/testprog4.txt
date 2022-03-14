@@ -1,0 +1,4 @@
+4: Missing a semicolon.
+4: Incorrect Syntax in the Program
+Unsuccessful Parsing
+Number of Syntax Errors 2

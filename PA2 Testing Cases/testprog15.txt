@@ -1,0 +1,6 @@
+12: Missing ) after expression
+12: Missing Expression in Assignment Statment
+12: Incorrect control Statement.
+13: Missing END of Program
+Unsuccessful Parsing
+Number of Syntax Errors 4

@@ -1,0 +1,9 @@
+12: Unrecognized Input Pattern
+(<)
+12: Missing if statement Logic Expression
+12: Incorrect control Statement.
+12: Missing a semicolon.
+12: Incorrect Syntax in the Program
+Unsuccessful Parsing
+Number of Syntax Errors 5
+    
