@@ -103,8 +103,7 @@ parse.cpp: It is the cpp file that contains list of all functions that are calle
 # concepts that are used in this project:
 1) Recursion
 2)Map
-3) Vector
-4)Inbuilt C++ function that are imported from algorithm library
+3) Vector, Inbuilt C++ function that are imported from algorithm library
 5) Input and Output stream
 6) Sstream
 7) strings
