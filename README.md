@@ -101,14 +101,15 @@ Prog2.cpp : It is the driver code that calls the recursive fuctions for token to
 parse.cpp: It is the cpp file that contains list of all functions that are called recursively to parse the word based on the grammer.
 
 # concepts that are used in this project:
-Recursion
-Map
-Vector
-Inbuilt C++ function that are imported from algorithm library
-Input and Output stream
-Sstream
-strings
-Operator overloading
-File operations : Importing, extrating,reading file content.
-Contributing
+1)Recursion
+2)Map
+3)Vector
+4)Inbuilt C++ function that are imported from algorithm library
+5)Input and Output stream
+6)Sstream
+7)strings
+8)Operator overloading
+9)File operations : Importing, extrating,reading file content.
+
+# Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated. If you have a suggestion that would make this better, please fork the repo and creat
